@@ -27,3 +27,9 @@ Choices are:
 > In terminal, run ```mkdir public``` then ```mkdir public/js```, then ```touch public/js/lib.js```... This is where your main angular app will live!
 
 > __In index.html file__ make a reference to the lib.js file using relative path to index.html
+
+Step 3:
+----
+> Create angularJS module in lib.js to wire up a module to the myApp namespace
+
+> The paragraph tag in index.html shows how Angular can evaluate expressions inline.

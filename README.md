@@ -21,3 +21,5 @@ Make your web document angular powered! But where will you get your angularJS fi
 Choices are:
 - Include as reference to CDN location or
 - Use locally minified or non minified version
+
+> next include angular js specific HTML mark up in the html node of web page ```ng-app="myApp"```

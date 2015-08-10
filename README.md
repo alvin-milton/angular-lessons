@@ -1,0 +1,2 @@
+Objective: Teach others AngularJS
+---

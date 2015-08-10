@@ -25,3 +25,5 @@ Choices are:
 > next include angular js specific HTML mark up in the html node of web page ```ng-app="myApp"```
 
 > In terminal, run ```mkdir public``` then ```mkdir public/js```, then ```touch public/js/lib.js```... This is where your main angular app will live!
+
+> __In index.html file__ make a reference to the lib.js file using relative path to index.html

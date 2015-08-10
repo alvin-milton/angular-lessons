@@ -23,3 +23,5 @@ Choices are:
 - Use locally minified or non minified version
 
 > next include angular js specific HTML mark up in the html node of web page ```ng-app="myApp"```
+
+> In terminal, run ```mkdir public``` then ```mkdir public/js```, then ```touch public/js/lib.js```... This is where your main angular app will live!
